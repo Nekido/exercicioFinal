@@ -72,8 +72,7 @@ public class ExercicioFinal {
             System.out.println("A média das temperaturas CONVERTIDAS é: " + (soma2 / N));
 
         } catch (Exception e) {
-
-            System.out.println("Bruno, sinto muito mas não consegui de jeito nenhum tratar erro especifico.");
+            
             System.out.println("O programa será encerrado");
 
         }
